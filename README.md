@@ -1,6 +1,7 @@
 # docker공부한 파일
 ## docker 스터디 
 - 새로고침 할때마다 숫자가 +1이 되는 사이트를 도커와 node를 통해 만들어보는 간단한 파일 
+- 리액트 앱 실행하기
 ## 실행어 
 - docker-compose up -d --build 
 ## 멈춤 
