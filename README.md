@@ -5,3 +5,7 @@
 - docker-compose up -d --build 
 ## 멈춤 
 - docker-compose down
+## 도커를 활용한 리액트 앱
+- docker build -t 이미지이름 ./ (빌드하기)
+- docker-compose.yml 파일 작성하기
+- react로 실행시 윈도우는 바로 적용안될 시 package.json 파일의 scripts의 부분의 start부분에 WATCHPACK_POLLING=true 부분 추가하면 해결
