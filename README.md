@@ -4,6 +4,7 @@
 - 리액트 앱 실행하기
 ## 실행어 
 - docker-compose up -d --build 
+- docker run 이미지이름
 ## 멈춤 
 - docker-compose down
 ## 도커를 활용한 리액트 앱
